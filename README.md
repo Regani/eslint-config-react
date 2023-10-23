@@ -4,11 +4,11 @@ Usage:
 
 1. Install dependency
     ```sh
-    npm i regani-eslint-config-react --save-dev
+    npm i eslint-config-regani-react --save-dev
     ``` 
    or
     ```sh 
-    yarn add regani-eslint-config-react --dev
+    yarn add eslint-config-regani-react --dev
     ```
 3. In .eslintrc file do:
 ```json
